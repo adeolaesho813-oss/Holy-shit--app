@@ -1,4 +1,4 @@
-name: Build APK
+allname: Build APK
 on: [push]
 jobs:
   build:
